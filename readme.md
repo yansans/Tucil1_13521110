@@ -89,7 +89,7 @@ Pemakaian program
 
 Project is: _complete_
 
-| Syntax                                                |  Ya | Tidak    |
+| Poin                                                |  Ya | Tidak    |
 | -----------                                           | ----|  ----    |
 | 1. Program berhasil dikompilasi tanpa kesalahan                                                | ✓  |        |
 | 2. Program berhasil running                            | ✓  |        |
