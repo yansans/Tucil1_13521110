@@ -1,0 +1,3 @@
+3 7 6 4 
+Tidak ditemukan solusi
+Waktu eksekusi algoritma: 318 microsecond
